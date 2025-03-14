@@ -18,7 +18,7 @@ augmented with it too.
 This massive section of the facility houses the mining efforts, crystal processing, and the all important power
 plant containing the large generator that powers the entire facility.
 
-#### Power Plant
+#### Hall of Power
 
 This is the central room in this section and is 3 stories tall and connects the mining and processing wings.
 Each floor is largely open to the others barring some catwalks and pipes that criss-cross the space. Ground
@@ -33,14 +33,14 @@ On the 3rd floor both wings also open up here and they connect with a chain corr
 room in the centre. This room contains one of the large crystals required to power the power plant, but is
 inaccesible until both wings are sufficiently powered with their backup generators.
 
-#### Mining Facility
+#### Crystal Mining
 
 A set of rooms that opens up to a cavern with many depleted containers of the crystal. However, throughout
 the PC can find several raw crystals that can be processed in the other wing. The generator in this section
 only requires one crystal to get it running to unlock the 3rd floor, but providing another unlocks a store
 room with loot.
 
-#### Processing
+#### Crystal Processing
 
 A smaller wing with a couple of cut crystals to find, but it does contain the machine required to cut the raw
 crystals the PC finds in mining. The generator in this wing is not depleted but a pipe does require fixing.
@@ -52,6 +52,10 @@ crystal is required to unlock the 3rd floor.
 The other section of NB was dedicated to living quarters and research. Here the more specific and esoteric uses
 of the crystal were discovered and put to use. Including the more powerful centurians guarding this section of
 the ruin.
+
+#### Halls of Respite
+
+#### Halls of Knowledge
 
 ## Absuri-Dur
 
