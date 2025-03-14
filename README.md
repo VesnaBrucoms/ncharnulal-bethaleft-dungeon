@@ -1,5 +1,7 @@
 # The Lost Facility of Ncharnulal-Bethaleft
 
+Power the Dwemer mining and research facility of Ncharnulal-Bethaleft and uncover its secrets!
+
 *The Lost Facility of Ncharnulal-Bethaleft* is a large dungeon mod for *Morrowind*.
 
 ## Requirements

@@ -1,6 +1,6 @@
 # Location Overview
 
-Ncharulal-Bethaleft was a Dwemer mining and research facility that was infrequently mentioned in the surviving
+Ncharnulal-Bethaleft was a Dwemer mining and research facility that was infrequently mentioned in the surviving
 records, and its location thought to have been lost to the sands of time. However, X had recently thought to
 have discovered its location and set out on an expedition, alone, to prove her theory correct. She found the
 cave of A, hired a team of miners to dig through a section, which revealed a large cavern with a portion ruin of
@@ -8,7 +8,7 @@ Ncharulal-Bethaleft.
 
 ## Facility Purpose
 
-Ncharulal-Bethaleft was built to mine a special crystal in the area that has peculiar energy properties that the
+Ncharnulal-Bethaleft was built to mine a special crystal in the area that has peculiar energy properties that the
 Dwemer were interested in exploiting. Initial experiments revealed it could be an intense power source. As a
 result the entire facility was automated and powered with this crystal. Many centurians were adapted and
 augmented with it too.
@@ -60,7 +60,7 @@ for the ruin.
 
 Enter into a tunnel that splits into two directions. Going left leads to a kagouti nest, while right takes you to
 another small room with evidence of camping and mining activity. From here it leads into a corridor that goes down
-and into a massive cavity. At the bottom are the exposed ruins of Ncharulal-Betheleft and X and her mining team,
+and into a massive cavity. At the bottom are the exposed ruins of Ncharnulal-Bethaleft and X and her mining team,
 working to power the entrance. A set of scaffolding has been assembled to take the PC down to about half way,
 and from there is a natural path. Taking you under a waterfall and over a stream that disappears into the inky
 blackness.
