@@ -53,12 +53,27 @@ The other section of NB was dedicated to living quarters and research. Here the 
 of the crystal were discovered and put to use. Including the more powerful centurians guarding this section of
 the ruin.
 
+## Absuri-Dur
+
+Short-ish cavern in the Molag Amur region with two small rooms and a massive cavity containing the expansion zone
+for the ruin.
+
+Enter into a tunnel that splits into two directions. Going left leads to a kagouti nest, while right takes you to
+another small room with evidence of camping and mining activity. From here it leads into a corridor that goes down
+and into a massive cavity. At the bottom are the exposed ruins of Ncharulal-Betheleft and X and her mining team,
+working to power the entrance. A set of scaffolding has been assembled to take the PC down to about half way,
+and from there is a natural path. Taking you under a waterfall and over a stream that disappears into the inky
+blackness.
+
 ## Current State
 
 With much of the fuel run dry (at least that's visible and easily accessible), X has had to make do with jury
 rigging and scavenging to get parts of the ruin powered for exploration. PC enters the cavern at the point X
 has fixed and plugged in one generator and is preparing to power it to open the way into the mining and
-processing section. Inside it's largely unpowered, requiring the PC to gradually find crystals to power the
+processing section. Providing a **teaching moment** to show the PC how to use the crystals and generators, as well
+as what the powered and unpowered states look like.
+
+Inside it's largely unpowered, requiring the PC to gradually find crystals to power the
 various generators to, in turn, power doors and other functions.
 
 The PC's actions will result in the ruin becoming noisier and brighter, but also more dangerous as the
