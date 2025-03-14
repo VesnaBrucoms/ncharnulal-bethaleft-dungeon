@@ -1,0 +1,34 @@
+Dwemer dungeon that is Zelda like puzzle-box. Something about needing crystals to proceed? Need to bring crystals int ocentral chamber to unlock. Maybe cool effect like they hover around a central big crystal
+
+Lots of OAAB traps and activators
+
+Usage of sphere deployment pipes. Early in the dungeon PC walks through a corridor with one such pipe that's broken and has a dead sphere in front of it.
+
+Maybe combination sets? Enter into a forgotten buriel barrow and breach into a forgotten dwemer ruin? Maybe the crystals have metaphysical properties that make people forget about places?
+
+Something to do with time? Coming across people who entered the ruin long ago and are somehow still alive, or maybe adventurers like the PC who's timestream intersects with the PCs and they meet briefly. Then later (or earlier) come across their bodies/skeletal remains.
+
+The first should be one that PC encounters the body first (in the cave? killed by creatures?), and that they're very recent so not skeletal. If PC loots something of theirs they should comment on it.
+
+Dungeon split into linear sections & open sections.
+
+First section is a cave ("Forgotten Cave") that's relatively short with a corridor gradually heading down. A room that turns back containing a nest, then another corridor leading deeper into the cave. Here is the body of an adventurer surrounded by kagouti. From here it winds down into a massive chamber containing the formerly in-progress expansion of a dwemer ruin.
+
+		 more?
+		   |
+side section - central room - side section
+		   |
+		entrance
+		   |
+		 cave
+
+Crystals used for fuel too? Maybe burning them causes issues?
+Raw - burn/tap for power
+Cut - other properties (maybe diff cuts produces diff results?)
+Perhaps PC can cut crystals to then make diff types of armour? Only limited amounts, so PC has to choose what to make, but upgrading the cutting machine can result in more crystals, thus more to make.
+
+A person is there who is investigating the ruins.
+
+When PC enters they are in a large room that splits off in three branches. Forward isn't possible as the door is sealed without power. Must venture into the other branches to unlock. There are two sources of power that must be fed to the main door to unlock it. They start in "low" power where they only power the route to them. Must fix various things to activate various junctions to get it flowing again. Restarting generators will boost the available power in the sources, in turn enabling more things to be on at a time.
+
+The antechamber contains a simpler source that PC needs to get going to power the entrance into the main room and the branches.
