@@ -26,6 +26,9 @@ If hiding parts of the mesh during animations, have frames 0-1 set the visibilit
 
 Resolution must be to the power of 2.
 
+Incorrect texture settings will result in texture loading in Blender & Nifskope, but completely white in
+Morrowind.
+
 GIMP export settings:
 
 | Setting | Value |
@@ -48,4 +51,8 @@ GIMP export settings:
 
 ## Icons
 
-aa
+32x32 and in TGA. Must have transparent background.
+
+Disable overlay in Blender, take screenshot.
+
+In GIMP export with compression & origin top-left.
