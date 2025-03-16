@@ -9,7 +9,6 @@ Named after the Dwemer who first found and utilised the crystal's properties. ([
 To make:
 
 * parts
-  * long pipe
   * small generator
   * large generator
   * kamdida light
@@ -21,3 +20,6 @@ To make:
   * cut kamdida
   * large raw kamdida
   * large kamdida
+
+* done
+  * long pipe (256)
