@@ -16,10 +16,10 @@ To make:
 
 * objects
   * kamdida deposits
-  * cut kamdida
   * large raw kamdida
   * large kamdida
 
 * done
   * long pipe (256)
   * raw kamdida
+  * cut kamdida
