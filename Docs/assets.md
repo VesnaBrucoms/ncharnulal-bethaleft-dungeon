@@ -9,7 +9,6 @@ Named after the Dwemer who first found and utilised the crystal's properties. ([
 To make:
 
 * parts
-  * small generator - Like the DWE steam dynamo! Crystal (only 1) is placed in the gap, two wheels inside each drum spin up either side. The right drum is the larger of the two and contains a window that'll fill up.
   * large generator - the 3 receptacles for crystals are separate pieces
   * kamdida light
   * kamdida indicator
@@ -23,3 +22,4 @@ To make:
   * long pipe (256)
   * raw kamdida
   * cut kamdida
+  * small generator
