@@ -18,8 +18,12 @@ To make:
   * large raw kamdida
   * large kamdida
 
-* done
-  * long pipe (256)
-  * raw kamdida
-  * cut kamdida
-  * small generator
+To adjust:
+
+* long pipe (256) - add flow dir marker
+
+Done:
+
+* raw kamdida
+* cut kamdida
+* small generator
