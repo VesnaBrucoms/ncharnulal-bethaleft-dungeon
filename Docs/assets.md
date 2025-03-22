@@ -20,10 +20,10 @@ To make:
 
 To adjust:
 
-* long pipe (256) - add flow dir marker
 
 Done:
 
 * raw kamdida
 * cut kamdida
 * small generator
+* long pipe (256)
