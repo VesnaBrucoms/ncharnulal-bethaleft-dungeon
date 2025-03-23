@@ -10,8 +10,8 @@ To make:
 
 * parts
   * large generator - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
-  * kamdida light
-  * kamdida indicator
+  * crystal cutter - 256x256x512
+  * pipe 3-way switch
 
 * objects
   * kamdida deposits
@@ -27,3 +27,5 @@ Done:
 * cut kamdida
 * small generator
 * long pipe (256)
+* kamdida indicator
+* kamdida light
