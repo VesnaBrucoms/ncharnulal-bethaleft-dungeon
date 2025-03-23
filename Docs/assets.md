@@ -9,7 +9,7 @@ Named after the Dwemer who first found and utilised the crystal's properties. ([
 To make:
 
 * parts
-  * large generator - the 3 receptacles for crystals are separate pieces
+  * large generator - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
   * kamdida light
   * kamdida indicator
 
