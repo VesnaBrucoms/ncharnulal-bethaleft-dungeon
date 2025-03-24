@@ -9,9 +9,11 @@ Named after the Dwemer who first found and utilised the crystal's properties. ([
 To make:
 
 * parts
-  * large generator - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
+  * large generator - 512x512x512 - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
   * crystal cutter - 256x256x512
   * pipe 3-way switch
+  * single piece ceiling for HoP - (256x6)x(256x6)x(256(?))
+  * door reciever - maybe a mirrored version too?
 
 * objects
   * kamdida deposits
