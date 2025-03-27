@@ -12,8 +12,9 @@ To make:
   * large generator - 512x512x512 - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
   * crystal cutter - 256x256x512
   * pipe 3-way switch
-  * single piece ceiling for HoP - (256x6)x(256x6)x(256(?))
+  * single piece ceiling for HoP - (256x7)x(256x6)x(512(?))
   * door reciever - maybe a mirrored version too?
+  * kamdida light off
 
 * objects
   * kamdida deposits
