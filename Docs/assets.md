@@ -23,12 +23,12 @@ To adjust:
 
 * single piece ceiling for HoP - (256x7)x(256x6)x(448) - UV adj & vertex painting
 * kamdida indicator - vertex painting
+* small generator - replace fluid texture
 
 Done:
 
 * raw kamdida
 * cut kamdida
-* small generator
 * long pipe (256)
 * kamdida light
 * pipe 3-way switch
