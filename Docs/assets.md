@@ -11,7 +11,6 @@ To make:
 * parts
   * large generator - 512x512x512 - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
   * crystal cutter - 256x256x512
-  * pipe 3-way switch
   * door reciever - maybe a mirrored version too?
   * kamdida light off
 
@@ -32,3 +31,4 @@ Done:
 * small generator
 * long pipe (256)
 * kamdida light
+* pipe 3-way switch
