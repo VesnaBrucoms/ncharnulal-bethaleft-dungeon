@@ -42,10 +42,31 @@ room with loot.
 
 #### Crystal Processing
 
+**Gist:** An easier wing that's primary goal is to provide utility (the cutting) and orientation with the
+puzzle mechanic. This will be either the first or the second location the PC visits, as going to mining first
+will mean picking up raw crystals, but no way to use them until cut.
+
 A smaller wing with a couple of cut crystals to find, but it does contain the machine required to cut the raw
-crystals the PC finds in mining. The generator in this wing is not depleted but a pipe does require fixing.
-Once fixed this powers the cutting machine, and from here the PC can cut the raw crystals from mining. A second
-crystal is required to unlock the 3rd floor.
+crystals the PC finds in mining. The primary dynamo is located to the southwest and it powers the cutting
+machine, the door to HoP 2F, door to upper proc. A switch turns that off to allow access to maintenance. A
+second dynamo is above and north of the cutting machines, and provides the second power to upper proc.
+
+This section is largely free of enemies apart from a spider by the primary dynamo and a sphere chute in recieving
+that activates only when the primary dynamo is switched to upstairs.
+
+Items:
+* cut crystals
+  * 1 by cutting machines
+  * 1 in recieving room
+* coins
+  * 2 by primary dynamo
+  * 3 by secondary dynamo
+* goblets
+  * 1 by primary dynamo
+
+Containers
+* barrels in recieving room
+* Chest by secondary dynamo
 
 ### Living Quarters & Research
 
