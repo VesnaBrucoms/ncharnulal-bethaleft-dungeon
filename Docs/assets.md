@@ -11,7 +11,7 @@ To make:
 * parts
   * large generator - 512x512x512 - the 3 receptacles for crystals are separate pieces. Top pipe raises up to connect to the network
   * crystal cutter - 256x256x512
-  * door reciever - maybe a mirrored version too?
+  * door reciever - maybe a mirrored version too? No need! Use the vanilla act_dwe_powerbox model with a pipe on the top
   * kamdida light off
 
 * objects
